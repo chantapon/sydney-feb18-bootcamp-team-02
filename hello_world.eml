@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/hello_world"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="hamcrest-core-1.3" value="project"/>
+		<level name="junit-4.12" value="project"/>
+		<level name="selenium-server-standalone-3.9.1" value="project"/>
+	</levels>
+</component>
