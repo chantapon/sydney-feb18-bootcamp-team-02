@@ -14,6 +14,7 @@ public class LoginTest {
   private String baseUrl;
   private boolean acceptNextAlert = true;
   private StringBuffer verificationErrors = new StringBuffer();
+  private String path = "src\\ebayCredentials";
 
   @Before
   public void setUp() throws Exception {

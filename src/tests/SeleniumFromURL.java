@@ -43,12 +43,6 @@ public class SeleniumFromURL {
     }
 
 
-    @Test
-    public void Login(String url) throws Exception{
-        driver.get(url);
-
-    }
-
     @After
     public void tearDown() throws Exception {
         driver.quit();
